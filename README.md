@@ -1,1 +1,7 @@
-WIPRO JAVA TRAININIG
+                                                            WIPRO JAVA TRAININIG
+
+
+                                                                 GIT
+                                                                LINUX
+                                                              NETWORKING
+                                                                SDLC
